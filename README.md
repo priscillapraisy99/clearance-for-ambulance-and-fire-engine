@@ -1,0 +1,2 @@
+# clearance-for-ambulance-and-fire-engine
+The signal which is in the way of the ambulance and fire engine becomes green when the vehicle is within 50 meters from the signal and the signal functions normally when the vehicle crosses the signal.If there are two vehicles running in the opposite direction,the vehicle which is near to the signal is given more priority,to minimize  disruption to traffic and seeks the return to normal traffic conditions quickly and safely after the emergency vehicle has passed..
